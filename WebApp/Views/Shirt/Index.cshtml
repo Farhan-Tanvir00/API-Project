@@ -1,0 +1,60 @@
+﻿@model List<Shirt>
+
+<div class="container">
+    <h3 class="text-center mb-3">Shirt's</h3>
+
+    <div class="text-danger" asp-validation-summary="All"></div>
+
+    @if(Model != null && Model.Count > 0)
+    {
+        <table class="table table-striped mb-3">
+            <thead>
+                <tr>
+                    <th>Color</th>
+                    <th>Size</th>
+                    <th>Gender</th>
+                    <th>Price</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var shirt in Model)
+                {
+                    <tr>
+                        <td>@shirt.Color</td>
+                        <td>@shirt.Size</td>
+                        <td>@shirt.Gender</td>
+                        <td>@shirt.Price</td>
+
+                        <td>
+                            <a class="btn btn-secondary"
+                               asp-controller="Shirt"
+                               asp-action="UpdateShirt"
+                               asp-route-shirtId="@shirt.ID">Edit</a>
+
+                        </td>
+                        <td>
+                            <form asp-controller="Shirt" asp-action="DeleteShirt" method="post" onsubmit="return confirm('Sure to Delete');">
+                                <input type="hidden" name="shirtId" value="@shirt.ID" />
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-info text-center">
+            No Shirts Available. Please add new shirts.
+        </div>
+
+    }
+
+    <a class="btn btn-primary" asp-controller="Shirt" asp-action="CreateShirt">Create New</a>
+
+</div>
