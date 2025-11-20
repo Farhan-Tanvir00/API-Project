@@ -31,3 +31,7 @@ C:\Users\ASUS\Desktop\New folder (4)\BasicC#\WebAPI\WebApp\obj\Debug\net8.0\refi
 C:\Users\ASUS\Desktop\New folder (4)\BasicC#\WebAPI\WebApp\obj\Debug\net8.0\WebApp.pdb
 C:\Users\ASUS\Desktop\New folder (4)\BasicC#\WebAPI\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\New folder (4)\BasicC#\WebAPI\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\Users\ASUS\Desktop\New folder (4)\BasicC#\WebAPI\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder (4)\BasicC#\WebAPI\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
+C:\Users\ASUS\Desktop\New folder (4)\BasicC#\WebAPI\WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\New folder (4)\BasicC#\WebAPI\WebApp\obj\Debug\net8.0\WebApp.csproj.Up2Date

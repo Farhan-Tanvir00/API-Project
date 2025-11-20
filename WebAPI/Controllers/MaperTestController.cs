@@ -1,10 +1,13 @@
-﻿using AutoMapper;
+﻿using Asp.Versioning;
+using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using WebAPI.DTO;
 using WebAPI.DTO.Repository;
 
 namespace WebAPI.Controllers
 {
+    [ApiVersion("1.0")]
+    [ApiExplorerSettings(GroupName = "v1")]
     [ApiController]
     [Route("[Controller]")]
     public class MaperTestController : ControllerBase
@@ -14,6 +17,8 @@ namespace WebAPI.Controllers
         {
             _mapper = mapper;
         }
+
+        [HttpGet]
         public IActionResult Index()
         {
             Shirt? shirt = ShirtsRepo.GetShirtByID(1);

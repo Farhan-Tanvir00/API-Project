@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Asp.Versioning;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WebAPI.Data;
 using WebAPI.DTO;
 using WebAPI.DTO.Repository;
@@ -7,8 +9,11 @@ using WebAPI.Filters.ExceptionFilters;
 
 namespace WebAPI.Controllers
 {
+    [ApiVersion("1.0")]
+    [ApiExplorerSettings(GroupName = "v1")]
     [ApiController]
     [Route("[controller]/[Action]")]
+    
     public class HomeController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
@@ -17,6 +22,7 @@ namespace WebAPI.Controllers
             _context = context;
         }
         [HttpGet]
+        [Authorize("Read")]
         public IActionResult getShirts()
         {
             return Ok(_context.Shirts.ToList());
@@ -25,6 +31,7 @@ namespace WebAPI.Controllers
 
         [HttpGet("{id}")]
         [TypeFilter(typeof(Shirt_ValidateShirtIdFilter))] //if the filter has constructor parameters.
+        [Authorize("Read")]
         public IActionResult getShirtById(int id)
         {
             return Ok(HttpContext.Items["shirt"]); //Value from the Action Filter
@@ -32,6 +39,7 @@ namespace WebAPI.Controllers
 
         [HttpPost]
         [TypeFilter(typeof(Shirt_ValidationForShirtObjectFilter))]
+        [Authorize("Write")]
         public IActionResult CreateShirts([FromBody] Shirt shirt)
         {
             //ShirtsRepo.AddNewShirt(shirt);
@@ -47,6 +55,7 @@ namespace WebAPI.Controllers
         [TypeFilter(typeof(Shirt_ValidateShirtIdFilter))] //if the filter has constructor parameters.
         [Shirt_ValidateUpdateShirtFilter]
         [TypeFilter(typeof(Shirt_HandleUpdateExceptionFilterAttribute))]
+        [Authorize("Write")]
         public IActionResult UpdateShirt(int id, [FromBody] Shirt shirt)
         {
             var shirtToUpdate = HttpContext.Items["shirt"] as Shirt; //Value from the Action Filter
@@ -63,6 +72,7 @@ namespace WebAPI.Controllers
 
         [HttpDelete("{id}")]
         [TypeFilter(typeof(Shirt_ValidateShirtIdFilter))] //if the filter has constructor parameters.
+        [Authorize("Delete")]
         public IActionResult RemoveShirt(int id)
         {
             //var shirt = ShirtsRepo.GetShirtByID(id);

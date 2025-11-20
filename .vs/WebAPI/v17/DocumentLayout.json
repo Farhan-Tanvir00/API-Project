@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8B144F3-016F-4B07-B387-30C757FC07F9}|WebAPI\\WebAPI.csproj|c:\\users\\asus\\desktop\\new folder (4)\\basicc#\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B144F3-016F-4B07-B387-30C757FC07F9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|c:\\users\\asus\\desktop\\new folder (4)\\basicc#\\webapi\\webapp\\controllers\\shirtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\shirtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|c:\\users\\asus\\desktop\\new folder (4)\\basicc#\\webapi\\webapp\\views\\shirt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shirt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|c:\\users\\asus\\desktop\\new folder (4)\\basicc#\\webapi\\webapp\\views\\shirt\\updateshirt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shirt\\updateshirt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|c:\\users\\asus\\desktop\\new folder (4)\\basicc#\\webapi\\webapp\\views\\shirt\\createshirt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shirt\\createshirt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|c:\\users\\asus\\desktop\\new folder (4)\\basicc#\\webapi\\webapp\\data\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|c:\\users\\asus\\desktop\\new folder (4)\\basicc#\\webapi\\webapp\\data\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8B144F3-016F-4B07-B387-30C757FC07F9}|WebAPI\\WebAPI.csproj|c:\\users\\asus\\desktop\\new folder (4)\\basicc#\\webapi\\webapi\\authority\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B144F3-016F-4B07-B387-30C757FC07F9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\authority\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|c:\\users\\asus\\desktop\\new folder (4)\\basicc#\\webapi\\webapp\\data\\webapiexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\webapiexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|c:\\users\\asus\\desktop\\new folder (4)\\basicc#\\webapi\\webapp\\data\\iwebapiexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\iwebapiexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|c:\\users\\asus\\desktop\\new folder (4)\\basicc#\\webapi\\webapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE274B00-25AA-405E-B16C-E55679617B28}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,126 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShirtController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Controllers\\ShirtController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\ShirtController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Controllers\\ShirtController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\ShirtController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA0wHMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:27:48.226Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "WebApiExecutor.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Data\\WebApiExecutor.cs",
               "RelativeDocumentMoniker": "WebApp\\Data\\WebApiExecutor.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Data\\WebApiExecutor.cs",
               "RelativeToolTip": "WebApp\\Data\\WebApiExecutor.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAUwBcAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T04:25:09.207Z",
+              "WhenOpened": "2025-11-19T02:23:38.986Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Views\\Shirt\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shirt\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Views\\Shirt\\Index.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shirt\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T02:57:24.301Z",
+              "Title": "ShirtController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Controllers\\ShirtController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\ShirtController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Controllers\\ShirtController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\ShirtController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:20:04.369Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAIwJ8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:37:22.391Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UpdateShirt.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Views\\Shirt\\UpdateShirt.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shirt\\UpdateShirt.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Views\\Shirt\\UpdateShirt.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shirt\\UpdateShirt.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T04:35:52.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateShirt.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Views\\Shirt\\CreateShirt.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shirt\\CreateShirt.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Views\\Shirt\\CreateShirt.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shirt\\CreateShirt.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T04:20:06.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IWebApiExecutor.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Data\\IWebApiExecutor.cs",
-              "RelativeDocumentMoniker": "WebApp\\Data\\IWebApiExecutor.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Data\\IWebApiExecutor.cs",
-              "RelativeToolTip": "WebApp\\Data\\IWebApiExecutor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebAPI\\Authority\\Authenticator.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Authority\\Authenticator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebAPI\\Authority\\Authenticator.cs",
+              "RelativeToolTip": "WebAPI\\Authority\\Authenticator.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T03:54:00.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApiException.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Data\\ApiException.cs",
-              "RelativeDocumentMoniker": "WebApp\\Data\\ApiException.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Data\\ApiException.cs",
-              "RelativeToolTip": "WebApp\\Data\\ApiException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T03:52:26.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebApp\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebApp\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T03:51:37.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ErrorResponse.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Data\\ErrorResponse.cs",
-              "RelativeDocumentMoniker": "WebApp\\Data\\ErrorResponse.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\New folder (4)\\BasicC#\\WebAPI\\WebApp\\Data\\ErrorResponse.cs",
-              "RelativeToolTip": "WebApp\\Data\\ErrorResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T03:34:43.789Z",
+              "WhenOpened": "2025-11-19T05:20:25.206Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
